@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/firstmobileapp/firstmobileapp/bin/Debug
+/firstmobileapp/firstmobileapp/obj/Debug/90
+/firstmobileapp/firstmobileapp/obj
